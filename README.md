@@ -14,7 +14,7 @@ Dans ce projet, je voudrai aider tout le monde (développeur) à avoir les donn�
   - Liste de tous les villes
   - Liste de tous les Quartiers
   - Les coordonnées géographique de tous les provinces, regions, communes, ville, Fokontany...
-> SVP: Besoin d'aide pour réussier la MAP
+> SVP: Besoin d'aide pour réussir à avoir les données de la MAP Madagascar
 
 
 **N'oubliez pas de contribuer et de m'aider à le finir**
